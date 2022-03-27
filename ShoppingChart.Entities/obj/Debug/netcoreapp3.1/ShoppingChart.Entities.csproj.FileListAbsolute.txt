@@ -1,0 +1,12 @@
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\bin\Debug\netcoreapp3.1\ShoppingChart.Entities.deps.json
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\bin\Debug\netcoreapp3.1\ShoppingChart.Entities.runtimeconfig.json
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\bin\Debug\netcoreapp3.1\ShoppingChart.Entities.runtimeconfig.dev.json
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\bin\Debug\netcoreapp3.1\ShoppingChart.Entities.dll
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\bin\Debug\netcoreapp3.1\ShoppingChart.Entities.pdb
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\obj\Debug\netcoreapp3.1\ShoppingChart.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\obj\Debug\netcoreapp3.1\ShoppingChart.Entities.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\obj\Debug\netcoreapp3.1\ShoppingChart.Entities.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\obj\Debug\netcoreapp3.1\ShoppingChart.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\obj\Debug\netcoreapp3.1\ShoppingChart.Entities.dll
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\obj\Debug\netcoreapp3.1\ShoppingChart.Entities.pdb
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Entities\obj\Debug\netcoreapp3.1\ShoppingChart.Entities.genruntimeconfig.cache

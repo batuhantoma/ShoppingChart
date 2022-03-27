@@ -1,0 +1,22 @@
+﻿@model ShoppingChart.Entities.Products
+
+<div>
+    <form class="form-horizontal" action="/Products/Update" method="post">
+        <div class="box-body">
+            <div class="form-group>
+                <label class="col-sm-2 control-label">Product Name</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" name="ProductName" value="@Model.ProductName" autocomplete="off" required="required" maxlength="50" />
+                </div>
+            </div>
+            <input type="hidden" name="Id" value="@Model.Id" />
+
+        </div>
+        <div class="box-footer">
+            <div class="pull-right">
+                <a href="~/Products/Index" class="btn btn-danger">Cancel</a>
+                <button type="submit" class="btn btn-info pull-right">Update</button>
+            </div>
+        </div>
+    </form>
+</div>

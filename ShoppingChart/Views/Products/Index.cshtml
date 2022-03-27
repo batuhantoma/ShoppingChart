@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ShoppingChart.Entities.Products>
+
+<div>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td>Id</td>
+                <td>Product Name</td>
+                <td>Edit</td>
+                <td>Delete</td>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(p => item.Id)</td>
+                    <td>@Html.DisplayFor(p => item.ProductName)</td>
+                    <td><a class="btn btn-success" href="/Products/UpdateProduct/@item.Id">Edit</a></td>
+                    <td><a class="btn btn-danger" href="/Products/Delete/@item.Id">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a class="btn bg-warning" href="~/Products/CreateProduct">Create Product</a>
+</div>

@@ -1,0 +1,15 @@
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\bin\Debug\netcoreapp3.1\ShoppingChart.Business.deps.json
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\bin\Debug\netcoreapp3.1\ShoppingChart.Business.dll
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\bin\Debug\netcoreapp3.1\ShoppingChart.Business.pdb
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\bin\Debug\netcoreapp3.1\ShoppingChart.DataAccess.dll
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\bin\Debug\netcoreapp3.1\ShoppingChart.Entities.dll
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\bin\Debug\netcoreapp3.1\ShoppingChart.DataAccess.pdb
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\bin\Debug\netcoreapp3.1\ShoppingChart.Entities.pdb
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\obj\Debug\netcoreapp3.1\ShoppingChart.Business.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\obj\Debug\netcoreapp3.1\ShoppingChart.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\obj\Debug\netcoreapp3.1\ShoppingChart.Business.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\obj\Debug\netcoreapp3.1\ShoppingChart.Business.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\obj\Debug\netcoreapp3.1\ShoppingChart.Business.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\obj\Debug\netcoreapp3.1\ShoppingChart.Business.csproj.CopyComplete
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\obj\Debug\netcoreapp3.1\ShoppingChart.Business.dll
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.Business\obj\Debug\netcoreapp3.1\ShoppingChart.Business.pdb

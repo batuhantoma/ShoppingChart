@@ -1,0 +1,13 @@
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\bin\Debug\netcoreapp3.1\ShoppingChart.DataAccess.deps.json
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\bin\Debug\netcoreapp3.1\ShoppingChart.DataAccess.dll
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\bin\Debug\netcoreapp3.1\ShoppingChart.DataAccess.pdb
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\bin\Debug\netcoreapp3.1\ShoppingChart.Entities.dll
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\bin\Debug\netcoreapp3.1\ShoppingChart.Entities.pdb
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingChart.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingChart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingChart.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingChart.DataAccess.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingChart.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingChart.DataAccess.csproj.CopyComplete
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingChart.DataAccess.dll
+C:\Users\Metehan\Desktop\Batuhan Calisma\ShoppingChart\ShoppingChart.DataAccess\obj\Debug\netcoreapp3.1\ShoppingChart.DataAccess.pdb

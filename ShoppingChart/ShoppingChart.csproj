@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShoppingChart.Business\ShoppingChart.Business.csproj" />
+    <ProjectReference Include="..\ShoppingChart.DataAccess\ShoppingChart.DataAccess.csproj" />
+    <ProjectReference Include="..\ShoppingChart.Entities\ShoppingChart.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
